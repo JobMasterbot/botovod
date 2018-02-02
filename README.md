@@ -1,2 +1,3 @@
 # botovod
-для себя
+my learn project
+
